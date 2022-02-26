@@ -1,0 +1,5230 @@
+fileFormatVersion: 2
+guid: a9221242c7a50a140a5ba3fe6bd59076
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 859823933864146985
+    second: killua sprites sem fundo_0
+  - first:
+      213: 7879648383280633180
+    second: killua sprites sem fundo_1
+  - first:
+      213: 1235892509463559360
+    second: killua sprites sem fundo_2
+  - first:
+      213: -8368105571092173379
+    second: killua sprites sem fundo_3
+  - first:
+      213: 8565357342919063642
+    second: killua sprites sem fundo_4
+  - first:
+      213: -2128045147133498756
+    second: killua sprites sem fundo_5
+  - first:
+      213: -951632339654799341
+    second: killua sprites sem fundo_6
+  - first:
+      213: 8438920065346912253
+    second: killua sprites sem fundo_7
+  - first:
+      213: -1254573830065459637
+    second: killua sprites sem fundo_8
+  - first:
+      213: 6720578509769316292
+    second: killua sprites sem fundo_9
+  - first:
+      213: 1451472124526767018
+    second: killua sprites sem fundo_10
+  - first:
+      213: 4729990631444368953
+    second: killua sprites sem fundo_11
+  - first:
+      213: 878978412576036916
+    second: killua sprites sem fundo_12
+  - first:
+      213: -2102537183547817886
+    second: killua sprites sem fundo_13
+  - first:
+      213: 4180466049496526666
+    second: killua sprites sem fundo_14
+  - first:
+      213: -4475188423999156553
+    second: killua sprites sem fundo_15
+  - first:
+      213: 5255692617759001800
+    second: killua sprites sem fundo_16
+  - first:
+      213: 1109847129124620483
+    second: killua sprites sem fundo_17
+  - first:
+      213: -360256889968574304
+    second: killua sprites sem fundo_18
+  - first:
+      213: -6323796111263264985
+    second: killua sprites sem fundo_19
+  - first:
+      213: -2817885826683198441
+    second: killua sprites sem fundo_20
+  - first:
+      213: -4808706721625567143
+    second: killua sprites sem fundo_21
+  - first:
+      213: 7531765398439288525
+    second: killua sprites sem fundo_22
+  - first:
+      213: 1900939415531781278
+    second: killua sprites sem fundo_23
+  - first:
+      213: 6466637953722487286
+    second: killua sprites sem fundo_24
+  - first:
+      213: 3200971496413583994
+    second: killua sprites sem fundo_25
+  - first:
+      213: -2737881530119783530
+    second: killua sprites sem fundo_26
+  - first:
+      213: -9128877218796169781
+    second: killua sprites sem fundo_27
+  - first:
+      213: -1072145859615647586
+    second: killua sprites sem fundo_28
+  - first:
+      213: -4481074400087477855
+    second: killua sprites sem fundo_29
+  - first:
+      213: -3428745817374808667
+    second: killua sprites sem fundo_30
+  - first:
+      213: -7478383427014872302
+    second: killua sprites sem fundo_31
+  - first:
+      213: 3143141906529401178
+    second: killua sprites sem fundo_32
+  - first:
+      213: 143070970992077981
+    second: killua sprites sem fundo_33
+  - first:
+      213: 3902257802101398068
+    second: killua sprites sem fundo_34
+  - first:
+      213: -3239662539884248743
+    second: killua sprites sem fundo_35
+  - first:
+      213: 3604743137304901137
+    second: killua sprites sem fundo_36
+  - first:
+      213: -1066885187823643158
+    second: killua sprites sem fundo_37
+  - first:
+      213: -2299236744366241554
+    second: killua sprites sem fundo_38
+  - first:
+      213: 1327043073435927610
+    second: killua sprites sem fundo_39
+  - first:
+      213: -8482482637345436214
+    second: killua sprites sem fundo_40
+  - first:
+      213: -325321869687789115
+    second: killua sprites sem fundo_41
+  - first:
+      213: 6691006455223578863
+    second: killua sprites sem fundo_42
+  - first:
+      213: 8278797788870457504
+    second: killua sprites sem fundo_43
+  - first:
+      213: 8697679147811585681
+    second: killua sprites sem fundo_44
+  - first:
+      213: -1735386651155844644
+    second: killua sprites sem fundo_45
+  - first:
+      213: -5118754155543730044
+    second: killua sprites sem fundo_46
+  - first:
+      213: 3139626810346674478
+    second: killua sprites sem fundo_47
+  - first:
+      213: -845750338494190007
+    second: killua sprites sem fundo_48
+  - first:
+      213: -1956375798376581099
+    second: killua sprites sem fundo_49
+  - first:
+      213: 542461053783433407
+    second: killua sprites sem fundo_50
+  - first:
+      213: 8734053015120457353
+    second: killua sprites sem fundo_51
+  - first:
+      213: -956101915708714492
+    second: killua sprites sem fundo_52
+  - first:
+      213: -8664465323110363409
+    second: killua sprites sem fundo_53
+  - first:
+      213: -554800373684378888
+    second: killua sprites sem fundo_54
+  - first:
+      213: -374822463387066481
+    second: killua sprites sem fundo_55
+  - first:
+      213: -6724115027251933350
+    second: killua sprites sem fundo_56
+  - first:
+      213: -3480484564566673158
+    second: killua sprites sem fundo_57
+  - first:
+      213: -7605669689826062264
+    second: killua sprites sem fundo_58
+  - first:
+      213: 4019104810972572002
+    second: killua sprites sem fundo_59
+  - first:
+      213: -7521090415366314416
+    second: killua sprites sem fundo_60
+  - first:
+      213: 1683051005734982198
+    second: killua sprites sem fundo_61
+  - first:
+      213: -8780596056640037537
+    second: killua sprites sem fundo_62
+  - first:
+      213: 5581302171256334842
+    second: killua sprites sem fundo_63
+  - first:
+      213: 2174434207024100080
+    second: killua sprites sem fundo_64
+  - first:
+      213: 8071892381735804747
+    second: killua sprites sem fundo_65
+  - first:
+      213: -8826425339797384922
+    second: killua sprites sem fundo_66
+  - first:
+      213: 8400231152196252055
+    second: killua sprites sem fundo_67
+  - first:
+      213: -108221459296788038
+    second: killua sprites sem fundo_68
+  - first:
+      213: -2927405624037985605
+    second: killua sprites sem fundo_69
+  - first:
+      213: -5767573033112636524
+    second: killua sprites sem fundo_70
+  - first:
+      213: -7645058837752144741
+    second: killua sprites sem fundo_71
+  - first:
+      213: -2892899033886341699
+    second: killua sprites sem fundo_72
+  - first:
+      213: -1007326821393313651
+    second: killua sprites sem fundo_73
+  - first:
+      213: 6220680948116399658
+    second: killua sprites sem fundo_74
+  - first:
+      213: -8855624667110503001
+    second: killua sprites sem fundo_75
+  - first:
+      213: -6740734668903923674
+    second: killua sprites sem fundo_76
+  - first:
+      213: -918900781728508000
+    second: killua sprites sem fundo_77
+  - first:
+      213: 7731510116834113018
+    second: killua sprites sem fundo_78
+  - first:
+      213: 5105327695816059270
+    second: killua sprites sem fundo_79
+  - first:
+      213: 8676781006945426568
+    second: killua sprites sem fundo_80
+  - first:
+      213: 4402984901912289443
+    second: killua sprites sem fundo_81
+  - first:
+      213: -4813406088535666938
+    second: killua sprites sem fundo_82
+  - first:
+      213: -7239636849367187130
+    second: killua sprites sem fundo_83
+  - first:
+      213: 6621828875143534199
+    second: killua sprites sem fundo_84
+  - first:
+      213: 5278122162587599780
+    second: killua sprites sem fundo_85
+  - first:
+      213: 6036925812465150073
+    second: killua sprites sem fundo_86
+  - first:
+      213: 8404323605302562906
+    second: killua sprites sem fundo_87
+  - first:
+      213: 3542187296917720964
+    second: killua sprites sem fundo_88
+  - first:
+      213: 4745567161263224325
+    second: killua sprites sem fundo_89
+  - first:
+      213: 483072092515579781
+    second: killua sprites sem fundo_90
+  - first:
+      213: 7933699013688888325
+    second: killua sprites sem fundo_91
+  - first:
+      213: -7957835999035147278
+    second: killua sprites sem fundo_92
+  - first:
+      213: 8619085719998281339
+    second: killua sprites sem fundo_93
+  - first:
+      213: -2198546113467202371
+    second: killua sprites sem fundo_94
+  - first:
+      213: -8507805697872391260
+    second: killua sprites sem fundo_95
+  - first:
+      213: -7333739934291353589
+    second: killua sprites sem fundo_96
+  - first:
+      213: -4256017951269105154
+    second: killua sprites sem fundo_97
+  - first:
+      213: 8727406794208684423
+    second: killua sprites sem fundo_98
+  - first:
+      213: 9047460506243096239
+    second: killua sprites sem fundo_99
+  - first:
+      213: -7307957239936923373
+    second: killua sprites sem fundo_100
+  - first:
+      213: -766579815606171784
+    second: killua sprites sem fundo_101
+  - first:
+      213: -6214205523923250931
+    second: killua sprites sem fundo_102
+  - first:
+      213: -2160706808073161377
+    second: killua sprites sem fundo_103
+  - first:
+      213: 6078270832595839304
+    second: killua sprites sem fundo_104
+  - first:
+      213: 8250503467630556990
+    second: killua sprites sem fundo_105
+  - first:
+      213: 5640219825933602829
+    second: killua sprites sem fundo_106
+  - first:
+      213: -3968241240857448160
+    second: killua sprites sem fundo_107
+  - first:
+      213: -5039549154703910947
+    second: killua sprites sem fundo_108
+  - first:
+      213: 8754951656081599969
+    second: killua sprites sem fundo_109
+  - first:
+      213: -5922014731974759016
+    second: killua sprites sem fundo_110
+  - first:
+      213: 2086849863311959396
+    second: killua sprites sem fundo_111
+  - first:
+      213: -8934309793265045587
+    second: killua sprites sem fundo_112
+  - first:
+      213: -4740051858041219507
+    second: killua sprites sem fundo_113
+  - first:
+      213: -2054824322773280897
+    second: killua sprites sem fundo_114
+  - first:
+      213: -8685216430336099846
+    second: killua sprites sem fundo_115
+  - first:
+      213: -2903262183373486461
+    second: killua sprites sem fundo_116
+  - first:
+      213: -9103705249520066148
+    second: killua sprites sem fundo_117
+  - first:
+      213: -9178195234305101226
+    second: killua sprites sem fundo_118
+  - first:
+      213: -1583830420052950439
+    second: killua sprites sem fundo_119
+  - first:
+      213: -6192854490554348867
+    second: killua sprites sem fundo_120
+  - first:
+      213: -3281177750361816652
+    second: killua sprites sem fundo_121
+  - first:
+      213: 4388259015120759041
+    second: killua sprites sem fundo_122
+  - first:
+      213: -5577723319795703869
+    second: killua sprites sem fundo_123
+  - first:
+      213: -6996608236896763972
+    second: killua sprites sem fundo_124
+  - first:
+      213: -5146063975384652855
+    second: killua sprites sem fundo_125
+  - first:
+      213: -7690863445296915565
+    second: killua sprites sem fundo_126
+  - first:
+      213: -6556974100572724105
+    second: killua sprites sem fundo_127
+  - first:
+      213: 5192125347323329403
+    second: killua sprites sem fundo_128
+  - first:
+      213: 3083586382248400747
+    second: killua sprites sem fundo_129
+  - first:
+      213: 6687903528465255064
+    second: killua sprites sem fundo_130
+  - first:
+      213: 1094436185009449475
+    second: killua sprites sem fundo_131
+  - first:
+      213: 2658947500398897950
+    second: killua sprites sem fundo_132
+  - first:
+      213: 7383162689320311366
+    second: killua sprites sem fundo_133
+  - first:
+      213: 2204392564832392590
+    second: killua sprites sem fundo_134
+  - first:
+      213: -8117386329898836820
+    second: killua sprites sem fundo_135
+  - first:
+      213: 4019503986466316800
+    second: killua sprites sem fundo_136
+  - first:
+      213: -4238996683626277846
+    second: killua sprites sem fundo_137
+  - first:
+      213: 5980004851832301578
+    second: killua sprites sem fundo_138
+  - first:
+      213: 1129318940732506549
+    second: killua sprites sem fundo_139
+  - first:
+      213: 6997177913710041714
+    second: killua sprites sem fundo_140
+  - first:
+      213: 3931997516959321448
+    second: killua sprites sem fundo_141
+  - first:
+      213: 4098041069155084460
+    second: killua sprites sem fundo_142
+  - first:
+      213: 5357190716401629718
+    second: killua sprites sem fundo_143
+  - first:
+      213: 4501713615200578121
+    second: killua sprites sem fundo_144
+  - first:
+      213: 8273824505567939909
+    second: killua sprites sem fundo_145
+  - first:
+      213: -9200423262526943888
+    second: killua sprites sem fundo_146
+  - first:
+      213: -2427610113784868300
+    second: killua sprites sem fundo_147
+  - first:
+      213: -1144755752079444010
+    second: killua sprites sem fundo_148
+  - first:
+      213: -3486558789314203801
+    second: killua sprites sem fundo_149
+  - first:
+      213: -6317047753286437060
+    second: killua sprites sem fundo_150
+  - first:
+      213: -2577975665375078477
+    second: killua sprites sem fundo_151
+  - first:
+      213: -8988250609659786006
+    second: killua sprites sem fundo_152
+  - first:
+      213: -1694262048253247453
+    second: killua sprites sem fundo_153
+  - first:
+      213: -7554415365195910234
+    second: killua sprites sem fundo_154
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 303, y: 1205, z: 406, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: killua sprites sem fundo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1224
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f953ff45beeb00800000000000000
+      internalID: 859823933864146985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1224
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c555c68d4722a5d60800000000000000
+      internalID: 7879648383280633180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1224
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc342770b5c62110800000000000000
+      internalID: 1235892509463559360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1224
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd6518b1548edb80800000000000000
+      internalID: -8368105571092173379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1223
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5879f64f134ed670800000000000000
+      internalID: 8565357342919063642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1221
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a2d1ba63aa772e0800000000000000
+      internalID: -2128045147133498756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1221
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3101a16dd6f1bc2f0800000000000000
+      internalID: -951632339654799341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1219
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3bee86111d1570800000000000000
+      internalID: 8438920065346912253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1219
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e6272afbbd69ee0800000000000000
+      internalID: -1254573830065459637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1219
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79ce72c8a444d50800000000000000
+      internalID: 6720578509769316292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1219
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabaccff43aa42410800000000000000
+      internalID: 1451472124526767018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1219
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eca223b6d44a140800000000000000
+      internalID: 4729990631444368953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1219
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438d4de8532c23c00800000000000000
+      internalID: 878978412576036916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1219
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260059f329942d2e0800000000000000
+      internalID: -2102537183547817886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1219
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f22d319bff30a30800000000000000
+      internalID: 4180466049496526666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1086
+        width: 293
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be0794c6dfe4e1c0800000000000000
+      internalID: -4475188423999156553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1154
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc0b2a0798ffe840800000000000000
+      internalID: 5255692617759001800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1154
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c57e6518f66f00800000000000000
+      internalID: 1109847129124620483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1154
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0498d644c100bf0800000000000000
+      internalID: -360256889968574304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1154
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f082411fc5d38a0800000000000000
+      internalID: -6323796111263264985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1156
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a0fa35cbd4e8d0800000000000000
+      internalID: -2817885826683198441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1157
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950997cd6ba044db0800000000000000
+      internalID: -4808706721625567143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1157
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5d8199b4368860800000000000000
+      internalID: 7531765398439288525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1150
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c7f4aa35e716a10800000000000000
+      internalID: 1900939415531781278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1155
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f110ba05fc1eb950800000000000000
+      internalID: 6466637953722487286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1156
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad1e3dd922c6c20800000000000000
+      internalID: 3200971496413583994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1155
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b7b181147110ad0800000000000000
+      internalID: -2737881530119783530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1082
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc59f7f4986bf4180800000000000000
+      internalID: -9128877218796169781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1083
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98143a6509fe11f0800000000000000
+      internalID: -1072145859615647586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1084
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a170ba239600d1c0800000000000000
+      internalID: -4481074400087477855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1091
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a44a68d5aa60d0800000000000000
+      internalID: -3428745817374808667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1088
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2133c9235e1773890800000000000000
+      internalID: -7478383427014872302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1088
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59345139eeae9b20800000000000000
+      internalID: 3143141906529401178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1082
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c27a34a4a4cf100800000000000000
+      internalID: 143070970992077981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1085
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1044cbca972630800000000000000
+      internalID: 3902257802101398068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_35
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1088
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9514f0e95186a03d0800000000000000
+      internalID: -3239662539884248743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1091
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f59dd8ce960230800000000000000
+      internalID: 3604743137304901137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1087
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae555a30399a131f0800000000000000
+      internalID: -1066885187823643158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_38
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1089
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84685ec587710e0800000000000000
+      internalID: -2299236744366241554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_39
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1085
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a348ac1f4aa9a6210800000000000000
+      internalID: 1327043073435927610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1010
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4b93cbfa284a80800000000000000
+      internalID: -8482482637345436214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1008
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e79fab793c7bf0800000000000000
+      internalID: -325321869687789115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1005
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe07279abea3bdc50800000000000000
+      internalID: 6691006455223578863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1012
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8b9ecd9b234e270800000000000000
+      internalID: 8278797788870457504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1009
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb1a74a1d54b870800000000000000
+      internalID: 8697679147811585681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 937
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b6e5090baae7e0800000000000000
+      internalID: -1735386651155844644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_46
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 937
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e242473886f8b0800000000000000
+      internalID: -5118754155543730044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 936
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29910613f1329b20800000000000000
+      internalID: 3139626810346674478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 858
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e23615c8a4344f0800000000000000
+      internalID: -845750338494190007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 858
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b792a39e89d4e0800000000000000
+      internalID: -1956375798376581099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 859
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0ee3f4475378700800000000000000
+      internalID: 542461053783433407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 859
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e2fa731f6953970800000000000000
+      internalID: 8734053015120457353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 859
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029c119f5e3bb2f0800000000000000
+      internalID: -956101915708714492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 859
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0157e1b2a1c780800000000000000
+      internalID: -8664465323110363409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 858
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e945eff3fc48f0800000000000000
+      internalID: -554800373684378888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 858
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f1af794fc5ccaf0800000000000000
+      internalID: -374822463387066481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_56
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 859
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f48c332052fa2a0800000000000000
+      internalID: -6724115027251933350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 858
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f5ca9ab5d2bfc0800000000000000
+      internalID: -3480484564566673158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 878
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84056f2b6bb337690800000000000000
+      internalID: -7605669689826062264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_59
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 865
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269651d088ab6c730800000000000000
+      internalID: 4019104810972572002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 786
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ee7c9d18bf9790800000000000000
+      internalID: -7521090415366314416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 786
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63292b7f8f56b5710800000000000000
+      internalID: 1683051005734982198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 786
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d56c7786e052680800000000000000
+      internalID: -8780596056640037537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_63
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 786
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a9d5f0c4c47d40800000000000000
+      internalID: 5581302171256334842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 715
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2312104642d2e10800000000000000
+      internalID: 2174434207024100080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 715
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f5b8eba5f150070800000000000000
+      internalID: 8071892381735804747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_66
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 715
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ded8faec328580800000000000000
+      internalID: -8826425339797384922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 715
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f3d10abd939470800000000000000
+      internalID: 8400231152196252055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 715
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16a89f7258f7ef0800000000000000
+      internalID: -108221459296788038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 715
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23cb15814cf57d0800000000000000
+      internalID: -2927405624037985605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 715
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493f23162e675ffa0800000000000000
+      internalID: -5767573033112636524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 643
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c92d80e7b47e590800000000000000
+      internalID: -7645058837752144741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 644
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5422ae7ab5ad7d0800000000000000
+      internalID: -2892899033886341699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 643
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d02ec7914502f0800000000000000
+      internalID: -1007326821393313651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 645
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26a48d1d5c445650800000000000000
+      internalID: 6220680948116399658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_75
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 646
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad01bcc8408a1580800000000000000
+      internalID: -8855624667110503001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 559
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62042d658891472a0800000000000000
+      internalID: -6740734668903923674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 559
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75e398b986f33f0800000000000000
+      internalID: -918900781728508000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 559
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af57c3bec77db4b60800000000000000
+      internalID: 7731510116834113018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_79
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 559
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689641b7d74c9d640800000000000000
+      internalID: 5105327695816059270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_80
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 571
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c96d0ba5e1a6870800000000000000
+      internalID: 8676781006945426568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 559
+        width: 142
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e3e5b07b8a1d30800000000000000
+      internalID: 4402984901912289443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_82
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 559
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f012d3aa8533db0800000000000000
+      internalID: -4813406088535666938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_83
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 559
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64104aa84a4a78b90800000000000000
+      internalID: -7239636849367187130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_84
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 559
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776da5a274675eb50800000000000000
+      internalID: 6621828875143534199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_85
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 559
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a386266428af3940800000000000000
+      internalID: 5278122162587599780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_86
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 463
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9782f5b9a0877c350800000000000000
+      internalID: 6036925812465150073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_87
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 464
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505d7f7ac722a470800000000000000
+      internalID: 8404323605302562906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_88
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 464
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8ea84490682130800000000000000
+      internalID: 3542187296917720964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 464
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5067ad8a034abd140800000000000000
+      internalID: 4745567161263224325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587bb4b328734b600800000000000000
+      internalID: 483072092515579781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_91
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 464
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0bc9e7392a1e60800000000000000
+      internalID: 7933699013688888325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_92
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb1b04256109190800000000000000
+      internalID: -7957835999035147278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_93
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 464
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76b325ebc42d9770800000000000000
+      internalID: 8619085719998281339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 464
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c87c45f13d71e0800000000000000
+      internalID: -2198546113467202371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_95
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 464
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a395484bc33ee980800000000000000
+      internalID: -8507805697872391260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 400
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a775b262593a90800000000000000
+      internalID: -7333739934291353589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_97
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 400
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef15be009369fe4c0800000000000000
+      internalID: -4256017951269105154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_98
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 397
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a3235d3afd1970800000000000000
+      internalID: 8727406794208684423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_99
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 399
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faedef915690f8d70800000000000000
+      internalID: 9047460506243096239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_100
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 403
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c0d70c9be49a90800000000000000
+      internalID: -7307957239936923373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_101
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 400
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774fce18bf8c55f0800000000000000
+      internalID: -766579815606171784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_102
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 398
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d8411005b2c9a0800000000000000
+      internalID: -6214205523923250931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_103
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 388
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f7012b90a302e0800000000000000
+      internalID: -2160706808073161377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_104
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 374
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8492e714e1b5a5450800000000000000
+      internalID: 6078270832595839304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_105
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 351
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377f36d03daf7270800000000000000
+      internalID: 8250503467630556990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_106
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 379
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0053eb6c06164e40800000000000000
+      internalID: 5640219825933602829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_107
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 323
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f2a7bd99fde8c0800000000000000
+      internalID: -3968241240857448160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_108
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 323
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d0c59ebcef0ab0800000000000000
+      internalID: -5039549154703910947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_109
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 323
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed267e3526df7970800000000000000
+      internalID: 8754951656081599969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 322
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da30a3af6c0dda0800000000000000
+      internalID: -5922014731974759016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_111
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 243
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652842e4eaf5fc10800000000000000
+      internalID: 2086849863311959396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafa42b3494f20480800000000000000
+      internalID: -8934309793265045587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 243
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d580f2f3f73eb0800000000000000
+      internalID: -4740051858041219507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 243
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7714455a2ccb73e0800000000000000
+      internalID: -2054824322773280897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_115
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 243
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93e604ca9e77780800000000000000
+      internalID: -8685216430336099846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_116
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 243
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386c2362d6a85b7d0800000000000000
+      internalID: -2903262183373486461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 237
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c916f7e1f4429a180800000000000000
+      internalID: -9103705249520066148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_118
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 243
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652bf04001080a080800000000000000
+      internalID: -9178195234305101226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_119
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 243
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952494cdf9a150ae0800000000000000
+      internalID: -1583830420052950439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_120
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 243
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba43d8e6af8e0aa0800000000000000
+      internalID: -6192854490554348867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_121
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 243
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c4c0783ae672d0800000000000000
+      internalID: -3281177750361816652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_122
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 243
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ada2035a36ec30800000000000000
+      internalID: 4388259015120759041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_123
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 170
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf1a245132f792b0800000000000000
+      internalID: -5577723319795703869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_124
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 170
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf323fc0ed07ee90800000000000000
+      internalID: -6996608236896763972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_125
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c363c354128598b0800000000000000
+      internalID: -5146063975384652855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 171
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b5a07c170944590800000000000000
+      internalID: -7690863445296915565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_127
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7742dedbbc2f005a0800000000000000
+      internalID: -6556974100572724105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_128
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 170
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b328c8e722e0840800000000000000
+      internalID: 5192125347323329403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_129
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 171
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67d5242a791bca20800000000000000
+      internalID: 3083586382248400747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_130
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 171
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac04a33d430dc50800000000000000
+      internalID: 6687903528465255064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_131
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 170
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a62d469e7303f00800000000000000
+      internalID: 1094436185009449475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_132
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 170
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b60b5f9aa76e420800000000000000
+      internalID: 2658947500398897950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_133
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 87
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64adad72953467660800000000000000
+      internalID: 7383162689320311366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_134
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 87
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d85cbb53979e10800000000000000
+      internalID: 2204392564832392590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_135
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 88
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac94c50420495f80800000000000000
+      internalID: -8117386329898836820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_136
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 88
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0026796549528c730800000000000000
+      internalID: 4019503986466316800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_137
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 88
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249564b9fe0c25c0800000000000000
+      internalID: -4238996683626277846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_138
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 88
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08a394babe3df250800000000000000
+      internalID: 5980004851832301578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_139
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 88
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14b7cd7952caf00800000000000000
+      internalID: 1129318940732506549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_140
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 88
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a55e86d38fa1160800000000000000
+      internalID: 6997177913710041714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_141
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0418b8e2419630800000000000000
+      internalID: 3931997516959321448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_142
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca863f9d3aa2fd830800000000000000
+      internalID: 4098041069155084460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_143
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 12
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ab32da290985a40800000000000000
+      internalID: 5357190716401629718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_144
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ae1929eac497e30800000000000000
+      internalID: 4501713615200578121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_145
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d8c4c1d8782d270800000000000000
+      internalID: 8273824505567939909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_146
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d47d5e9c7815080800000000000000
+      internalID: -9200423262526943888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_147
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43215baa6756f4ed0800000000000000
+      internalID: -2427610113784868300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_148
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 12
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d738ba65b20d10f0800000000000000
+      internalID: -1144755752079444010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_149
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2962f0414d9fc0800000000000000
+      internalID: -3486558789314203801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_150
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 12
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37be2c99865558a0800000000000000
+      internalID: -6317047753286437060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_151
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b797b18ac0393cd0800000000000000
+      internalID: -2577975665375078477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_152
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 13
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4a0b31b1534380800000000000000
+      internalID: -8988250609659786006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 13
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3208079c4a5cc78e0800000000000000
+      internalID: -1694262048253247453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killua sprites sem fundo_154
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 13
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3beb71043592790800000000000000
+      internalID: -7554415365195910234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -472, y: -599}
+      - {x: -472, y: -586}
+      - {x: -475, y: -579}
+      - {x: -480, y: -577}
+      - {x: -490, y: -577}
+      - {x: -495, y: -580}
+      - {x: -495, y: -620}
+      - {x: -492, y: -628}
+      - {x: -489, y: -631}
+      - {x: -474, y: -631}
+      - {x: -472, y: -629}
+      - {x: -472, y: -621}
+      - {x: -474, y: -612}
+    - - {x: -460, y: -578}
+      - {x: -462, y: -579}
+      - {x: -462, y: -630}
+      - {x: -460, y: -631}
+      - {x: -449, y: -631}
+      - {x: -436, y: -629}
+      - {x: -436, y: -578}
+    - - {x: -423, y: -579}
+      - {x: -428, y: -585}
+      - {x: -428, y: -629}
+      - {x: -418, y: -631}
+      - {x: -406, y: -631}
+      - {x: -404, y: -627}
+      - {x: -404, y: -580}
+      - {x: -408, y: -579}
+    - - {x: -388, y: -579}
+      - {x: -391, y: -583}
+      - {x: -391, y: -631}
+      - {x: -373, y: -631}
+      - {x: -368, y: -610}
+      - {x: -368, y: -579}
+    - - {x: -361, y: -577}
+      - {x: -361, y: -626}
+      - {x: -360, y: -631}
+      - {x: -344, y: -631}
+      - {x: -338, y: -628}
+      - {x: -338, y: -585}
+      - {x: -344, y: -577}
+    - - {x: -306, y: -629}
+      - {x: -306, y: -578}
+      - {x: -324, y: -578}
+      - {x: -331, y: -582}
+      - {x: -333, y: -597}
+      - {x: -333, y: -629}
+      - {x: -327, y: -631}
+      - {x: -323, y: -631}
+      - {x: -320, y: -628}
+      - {x: -320, y: -626}
+      - {x: -315, y: -629}
+    - - {x: -291, y: -579}
+      - {x: -298, y: -585}
+      - {x: -302, y: -604}
+      - {x: -302, y: -631}
+      - {x: -274, y: -631}
+      - {x: -274, y: -587}
+      - {x: -280, y: -579}
+    - - {x: -250, y: -579}
+      - {x: -263, y: -579}
+      - {x: -268, y: -584}
+      - {x: -268, y: -631}
+      - {x: -249, y: -631}
+      - {x: -247, y: -625}
+      - {x: -245, y: -614}
+      - {x: -245, y: -580}
+    - - {x: -227, y: -631}
+      - {x: -222, y: -631}
+      - {x: -215, y: -630}
+      - {x: -215, y: -588}
+      - {x: -221, y: -580}
+      - {x: -236, y: -580}
+      - {x: -243, y: -590}
+      - {x: -243, y: -626}
+      - {x: -241, y: -631}
+      - {x: -231, y: -631}
+      - {x: -228, y: -628}
+      - {x: -228, y: -624}
+      - {x: -228, y: -628}
+    - - {x: -202, y: -579}
+      - {x: -204, y: -580}
+      - {x: -215, y: -593}
+      - {x: -215, y: -623}
+      - {x: -210, y: -631}
+      - {x: -184, y: -631}
+      - {x: -184, y: -581}
+      - {x: -187, y: -579}
+    - - {x: -153, y: -600}
+      - {x: -153, y: -582}
+      - {x: -159, y: -579}
+      - {x: -173, y: -579}
+      - {x: -179, y: -587}
+      - {x: -179, y: -612}
+      - {x: -178, y: -629}
+      - {x: -175, y: -631}
+      - {x: -162, y: -631}
+      - {x: -157, y: -629}
+      - {x: -159, y: -626}
+      - {x: -162, y: -623}
+      - {x: -156, y: -614}
+    - - {x: -146, y: -578}
+      - {x: -146, y: -630}
+      - {x: -120, y: -630}
+      - {x: -120, y: -582}
+      - {x: -129, y: -578}
+    - - {x: -103, y: -578}
+      - {x: -105, y: -587}
+      - {x: -105, y: -630}
+      - {x: -79, y: -630}
+      - {x: -79, y: -578}
+    - - {x: -55, y: -630}
+      - {x: -50, y: -630}
+      - {x: -43, y: -629}
+      - {x: -43, y: -587}
+      - {x: -49, y: -579}
+      - {x: -64, y: -579}
+      - {x: -71, y: -589}
+      - {x: -71, y: -625}
+      - {x: -69, y: -630}
+      - {x: -59, y: -630}
+      - {x: -56, y: -627}
+      - {x: -56, y: -623}
+      - {x: -56, y: -627}
+    - - {x: -492, y: -504}
+      - {x: -496, y: -506}
+      - {x: -496, y: -556}
+      - {x: -474, y: -556}
+      - {x: -472, y: -555}
+      - {x: -472, y: -506}
+      - {x: -479, y: -504}
+    - - {x: -456, y: -504}
+      - {x: -462, y: -516}
+      - {x: -462, y: -537}
+      - {x: -456, y: -555}
+      - {x: -453, y: -556}
+      - {x: -436, y: -556}
+      - {x: -433, y: -555}
+      - {x: -433, y: -511}
+      - {x: -438, y: -504}
+    - - {x: -414, y: -503}
+      - {x: -426, y: -507}
+      - {x: -427, y: -509}
+      - {x: -427, y: -522}
+      - {x: -417, y: -553}
+      - {x: -416, y: -555}
+      - {x: -399, y: -555}
+      - {x: -395, y: -553}
+      - {x: -395, y: -511}
+      - {x: -401, y: -503}
+    - - {x: -372, y: -503}
+      - {x: -388, y: -514}
+      - {x: -389, y: -517}
+      - {x: -389, y: -523}
+      - {x: -371, y: -555}
+      - {x: -348, y: -555}
+      - {x: -324, y: -534}
+      - {x: -324, y: -518}
+      - {x: -351, y: -503}
+    - - {x: -317, y: -503}
+      - {x: -317, y: -551}
+      - {x: -315, y: -555}
+      - {x: -312, y: -555}
+      - {x: -308, y: -554}
+      - {x: -305, y: -551}
+      - {x: -305, y: -554}
+      - {x: -303, y: -555}
+      - {x: -293, y: -555}
+      - {x: -291, y: -553}
+      - {x: -248, y: -523}
+      - {x: -248, y: -503}
+    - - {x: -214, y: -529}
+      - {x: -215, y: -535}
+      - {x: -213, y: -539}
+      - {x: -202, y: -538}
+      - {x: -172, y: -526}
+      - {x: -168, y: -516}
+      - {x: -168, y: -505}
+      - {x: -173, y: -503}
+      - {x: -233, y: -503}
+      - {x: -247, y: -511}
+      - {x: -247, y: -555}
+      - {x: -212, y: -555}
+      - {x: -209, y: -554}
+      - {x: -212, y: -543}
+      - {x: -214, y: -539}
+      - {x: -216, y: -531}
+    - - {x: -150, y: -504}
+      - {x: -160, y: -511}
+      - {x: -160, y: -555}
+      - {x: -132, y: -555}
+      - {x: -132, y: -507}
+      - {x: -136, y: -504}
+    - - {x: -119, y: -503}
+      - {x: -119, y: -539}
+      - {x: -116, y: -555}
+      - {x: -98, y: -555}
+      - {x: -97, y: -550}
+      - {x: -97, y: -504}
+      - {x: -98, y: -503}
+    - - {x: -296, y: -530}
+      - {x: -294, y: -528}
+      - {x: -294, y: -525}
+      - {x: -295, y: -523}
+      - {x: -290, y: -518}
+      - {x: -283, y: -517}
+      - {x: -280, y: -519}
+      - {x: -280, y: -521}
+      - {x: -289, y: -529}
+      - {x: -294, y: -531}
+      - {x: -296, y: -534}
+      - {x: -295, y: -534}
+    - - {x: -490, y: -421}
+      - {x: -494, y: -427}
+      - {x: -494, y: -473}
+      - {x: -470, y: -473}
+      - {x: -469, y: -466}
+      - {x: -469, y: -425}
+      - {x: -474, y: -421}
+    - - {x: -462, y: -422}
+      - {x: -463, y: -426}
+      - {x: -463, y: -460}
+      - {x: -462, y: -468}
+      - {x: -457, y: -473}
+      - {x: -452, y: -473}
+      - {x: -446, y: -472}
+      - {x: -441, y: -440}
+      - {x: -441, y: -428}
+      - {x: -446, y: -422}
+    - - {x: -370, y: -427}
+      - {x: -370, y: -473}
+      - {x: -334, y: -473}
+      - {x: -326, y: -453}
+      - {x: -326, y: -427}
+    - - {x: -306, y: -425}
+      - {x: -320, y: -458}
+      - {x: -320, y: -473}
+      - {x: -286, y: -473}
+      - {x: -280, y: -455}
+      - {x: -280, y: -432}
+      - {x: -289, y: -425}
+    - - {x: -198, y: -422}
+      - {x: -203, y: -424}
+      - {x: -203, y: -473}
+      - {x: -189, y: -473}
+      - {x: -185, y: -472}
+      - {x: -181, y: -457}
+      - {x: -181, y: -427}
+      - {x: -185, y: -422}
+    - - {x: -166, y: -421}
+      - {x: -168, y: -430}
+      - {x: -168, y: -469}
+      - {x: -167, y: -473}
+      - {x: -144, y: -473}
+      - {x: -143, y: -467}
+      - {x: -143, y: -425}
+      - {x: -148, y: -421}
+    - - {x: -414, y: -422}
+      - {x: -424, y: -422}
+      - {x: -430, y: -428}
+      - {x: -435, y: -460}
+      - {x: -435, y: -470}
+      - {x: -431, y: -472}
+      - {x: -411, y: -472}
+      - {x: -405, y: -447}
+      - {x: -405, y: -433}
+      - {x: -406, y: -426}
+    - - {x: -375, y: -472}
+      - {x: -373, y: -465}
+      - {x: -373, y: -425}
+      - {x: -375, y: -423}
+      - {x: -395, y: -423}
+      - {x: -403, y: -427}
+      - {x: -405, y: -453}
+      - {x: -405, y: -471}
+      - {x: -402, y: -472}
+      - {x: -395, y: -472}
+      - {x: -393, y: -470}
+      - {x: -393, y: -468}
+      - {x: -389, y: -472}
+    - - {x: -256, y: -423}
+      - {x: -265, y: -423}
+      - {x: -272, y: -429}
+      - {x: -275, y: -447}
+      - {x: -275, y: -472}
+      - {x: -249, y: -472}
+      - {x: -247, y: -470}
+      - {x: -245, y: -460}
+      - {x: -245, y: -433}
+    - - {x: -233, y: -422}
+      - {x: -238, y: -430}
+      - {x: -238, y: -472}
+      - {x: -213, y: -472}
+      - {x: -213, y: -422}
+    - - {x: -230, y: -362}
+      - {x: -230, y: -400}
+      - {x: -216, y: -406}
+      - {x: -201, y: -406}
+      - {x: -195, y: -387}
+      - {x: -195, y: -369}
+      - {x: -202, y: -362}
+    - - {x: -489, y: -353}
+      - {x: -496, y: -379}
+      - {x: -496, y: -400}
+      - {x: -468, y: -400}
+      - {x: -463, y: -398}
+      - {x: -462, y: -390}
+      - {x: -462, y: -362}
+      - {x: -470, y: -353}
+    - - {x: -423, y: -386}
+      - {x: -426, y: -382}
+      - {x: -425, y: -383}
+      - {x: -422, y: -384}
+      - {x: -419, y: -382}
+      - {x: -419, y: -366}
+      - {x: -426, y: -355}
+      - {x: -442, y: -355}
+      - {x: -454, y: -375}
+      - {x: -454, y: -400}
+      - {x: -425, y: -400}
+      - {x: -422, y: -397}
+      - {x: -422, y: -394}
+    - - {x: -395, y: -351}
+      - {x: -407, y: -355}
+      - {x: -407, y: -392}
+      - {x: -405, y: -400}
+      - {x: -377, y: -400}
+      - {x: -376, y: -380}
+      - {x: -376, y: -354}
+      - {x: -379, y: -351}
+    - - {x: -368, y: -352}
+      - {x: -368, y: -400}
+      - {x: -345, y: -400}
+      - {x: -340, y: -399}
+      - {x: -338, y: -385}
+      - {x: -338, y: -352}
+    - - {x: -304, y: -348}
+      - {x: -325, y: -348}
+      - {x: -325, y: -389}
+      - {x: -320, y: -399}
+      - {x: -318, y: -400}
+      - {x: -313, y: -400}
+      - {x: -303, y: -390}
+      - {x: -298, y: -362}
+      - {x: -298, y: -351}
+    - - {x: -268, y: -349}
+      - {x: -278, y: -361}
+      - {x: -279, y: -365}
+      - {x: -279, y: -393}
+      - {x: -269, y: -400}
+      - {x: -249, y: -400}
+      - {x: -244, y: -365}
+      - {x: -244, y: -352}
+      - {x: -246, y: -349}
+    - - {x: -177, y: -358}
+      - {x: -182, y: -360}
+      - {x: -187, y: -376}
+      - {x: -187, y: -390}
+      - {x: -178, y: -400}
+      - {x: -154, y: -400}
+      - {x: -152, y: -394}
+      - {x: -152, y: -358}
+    - - {x: -133, y: -350}
+      - {x: -141, y: -363}
+      - {x: -141, y: -400}
+      - {x: -111, y: -400}
+      - {x: -110, y: -394}
+      - {x: -110, y: -350}
+    - - {x: -94, y: -351}
+      - {x: -100, y: -353}
+      - {x: -104, y: -379}
+      - {x: -104, y: -400}
+      - {x: -79, y: -400}
+      - {x: -73, y: -393}
+      - {x: -73, y: -354}
+      - {x: -79, y: -351}
+    - - {x: -49, y: -352}
+      - {x: -57, y: -372}
+      - {x: -57, y: -381}
+      - {x: -61, y: -391}
+      - {x: -61, y: -398}
+      - {x: -56, y: -400}
+      - {x: -33, y: -400}
+      - {x: -30, y: -380}
+      - {x: -30, y: -354}
+      - {x: -36, y: -352}
+    - - {x: -15, y: -348}
+      - {x: -17, y: -357}
+      - {x: -17, y: -396}
+      - {x: -16, y: -400}
+      - {x: 6, y: -400}
+      - {x: 8, y: -388}
+      - {x: 8, y: -354}
+      - {x: 3, y: -348}
+    - - {x: -443, y: -379}
+      - {x: -443, y: -378}
+      - {x: -444, y: -379}
+      - {x: -444, y: -380}
+    - - {x: -368, y: -269}
+      - {x: -382, y: -269}
+      - {x: -388, y: -277}
+      - {x: -388, y: -321}
+      - {x: -356, y: -321}
+      - {x: -356, y: -283}
+      - {x: -362, y: -272}
+    - - {x: -494, y: -267}
+      - {x: -500, y: -270}
+      - {x: -500, y: -320}
+      - {x: -474, y: -320}
+      - {x: -470, y: -317}
+      - {x: -470, y: -278}
+      - {x: -472, y: -267}
+    - - {x: -466, y: -267}
+      - {x: -470, y: -269}
+      - {x: -470, y: -320}
+      - {x: -435, y: -320}
+      - {x: -433, y: -307}
+      - {x: -433, y: -276}
+      - {x: -442, y: -267}
+    - - {x: -400, y: -280}
+      - {x: -409, y: -268}
+      - {x: -422, y: -268}
+      - {x: -431, y: -272}
+      - {x: -432, y: -276}
+      - {x: -432, y: -302}
+      - {x: -426, y: -320}
+      - {x: -405, y: -320}
+      - {x: -402, y: -314}
+      - {x: -396, y: -284}
+    - - {x: 150, y: -237}
+      - {x: 158, y: -255}
+      - {x: 237, y: -292}
+      - {x: 253, y: -292}
+      - {x: 253, y: -279}
+      - {x: 201, y: -206}
+      - {x: 169, y: -206}
+      - {x: 150, y: -218}
+    - - {x: 46, y: -204}
+      - {x: 28, y: -213}
+      - {x: 28, y: -239}
+      - {x: 36, y: -252}
+      - {x: 51, y: -253}
+      - {x: 88, y: -269}
+      - {x: 108, y: -269}
+      - {x: 108, y: -261}
+      - {x: 104, y: -257}
+      - {x: 66, y: -204}
+    - - {x: 302, y: -210}
+      - {x: 298, y: -213}
+      - {x: 298, y: -259}
+      - {x: 307, y: -264}
+      - {x: 357, y: -264}
+      - {x: 357, y: -253}
+      - {x: 337, y: -210}
+    - - {x: -64, y: -200}
+      - {x: -85, y: -213}
+      - {x: -85, y: -229}
+      - {x: -73, y: -252}
+      - {x: -37, y: -255}
+      - {x: -18, y: -255}
+      - {x: -16, y: -251}
+      - {x: -16, y: -240}
+      - {x: -46, y: -200}
+    - - {x: -398, y: -246}
+      - {x: -352, y: -246}
+      - {x: -352, y: -206}
+      - {x: -353, y: -205}
+      - {x: -362, y: -200}
+      - {x: -381, y: -200}
+      - {x: -398, y: -215}
+    - - {x: -165, y: -197}
+      - {x: -180, y: -215}
+      - {x: -180, y: -245}
+      - {x: -145, y: -245}
+      - {x: -143, y: -235}
+      - {x: -143, y: -197}
+    - - {x: -314, y: -201}
+      - {x: -321, y: -207}
+      - {x: -333, y: -213}
+      - {x: -337, y: -219}
+      - {x: -337, y: -235}
+      - {x: -328, y: -244}
+      - {x: -317, y: -244}
+      - {x: -301, y: -239}
+      - {x: -299, y: -230}
+      - {x: -299, y: -203}
+      - {x: -302, y: -201}
+    - - {x: -466, y: -200}
+      - {x: -483, y: -200}
+      - {x: -493, y: -213}
+      - {x: -500, y: -233}
+      - {x: -500, y: -243}
+      - {x: -490, y: -243}
+      - {x: -469, y: -234}
+      - {x: -461, y: -227}
+      - {x: -461, y: -201}
+    - - {x: -418, y: -205}
+      - {x: -439, y: -205}
+      - {x: -459, y: -221}
+      - {x: -459, y: -243}
+      - {x: -440, y: -243}
+      - {x: -433, y: -242}
+      - {x: -419, y: -228}
+      - {x: -414, y: -222}
+      - {x: -414, y: -209}
+    - - {x: -213, y: -198}
+      - {x: -224, y: -201}
+      - {x: -238, y: -221}
+      - {x: -238, y: -240}
+      - {x: -236, y: -243}
+      - {x: -218, y: -243}
+      - {x: -203, y: -237}
+      - {x: -199, y: -233}
+      - {x: -198, y: -226}
+      - {x: -198, y: -198}
+    - - {x: -246, y: -198}
+      - {x: -265, y: -198}
+      - {x: -277, y: -213}
+      - {x: -277, y: -225}
+      - {x: -273, y: -238}
+      - {x: -269, y: -240}
+      - {x: -260, y: -240}
+      - {x: -243, y: -226}
+      - {x: -243, y: -200}
+    - - {x: 315, y: -227}
+      - {x: 318, y: -229}
+      - {x: 317, y: -228}
+    - - {x: -320, y: -218}
+      - {x: -317, y: -220}
+      - {x: -318, y: -219}
+    - - {x: -463, y: -129}
+      - {x: -492, y: -129}
+      - {x: -496, y: -142}
+      - {x: -496, y: -166}
+      - {x: -489, y: -180}
+      - {x: -478, y: -180}
+      - {x: -477, y: -178}
+      - {x: -474, y: -180}
+      - {x: -463, y: -180}
+    - - {x: -427, y: -115}
+      - {x: -453, y: -123}
+      - {x: -453, y: -179}
+      - {x: -424, y: -179}
+      - {x: -408, y: -132}
+      - {x: -408, y: -115}
+    - - {x: -377, y: -95}
+      - {x: -381, y: -98}
+      - {x: -399, y: -131}
+      - {x: -402, y: -159}
+      - {x: -402, y: -179}
+      - {x: -369, y: -179}
+      - {x: -369, y: -99}
+      - {x: -371, y: -95}
+    - - {x: -337, y: -126}
+      - {x: -337, y: -147}
+      - {x: -326, y: -179}
+      - {x: -298, y: -179}
+      - {x: -292, y: -178}
+      - {x: -292, y: -156}
+      - {x: -296, y: -126}
+    - - {x: -243, y: -179}
+      - {x: -232, y: -177}
+      - {x: -232, y: -128}
+      - {x: -237, y: -127}
+      - {x: -257, y: -127}
+      - {x: -266, y: -144}
+      - {x: -266, y: -179}
+      - {x: -250, y: -179}
+      - {x: -248, y: -177}
+      - {x: -248, y: -174}
+      - {x: -246, y: -179}
+    - - {x: -207, y: -178}
+      - {x: -197, y: -179}
+      - {x: -189, y: -167}
+      - {x: -189, y: -144}
+      - {x: -196, y: -127}
+      - {x: -219, y: -127}
+      - {x: -222, y: -129}
+      - {x: -222, y: -179}
+      - {x: -212, y: -179}
+      - {x: -210, y: -177}
+      - {x: -210, y: -174}
+      - {x: -209, y: -176}
+    - - {x: -160, y: -178}
+      - {x: -150, y: -179}
+      - {x: -147, y: -172}
+      - {x: -146, y: -168}
+      - {x: -146, y: -136}
+      - {x: -151, y: -127}
+      - {x: -171, y: -127}
+      - {x: -175, y: -129}
+      - {x: -175, y: -179}
+      - {x: -165, y: -179}
+      - {x: -163, y: -177}
+      - {x: -163, y: -174}
+      - {x: -162, y: -176}
+    - - {x: -111, y: -178}
+      - {x: -101, y: -179}
+      - {x: -99, y: -174}
+      - {x: -99, y: -130}
+      - {x: -102, y: -127}
+      - {x: -117, y: -127}
+      - {x: -125, y: -131}
+      - {x: -126, y: -136}
+      - {x: -126, y: -177}
+      - {x: -125, y: -179}
+      - {x: -116, y: -179}
+      - {x: -114, y: -177}
+      - {x: -114, y: -174}
+      - {x: -113, y: -176}
+    - - {x: -87, y: -127}
+      - {x: -92, y: -132}
+      - {x: -92, y: -179}
+      - {x: -66, y: -179}
+      - {x: -66, y: -130}
+      - {x: -71, y: -127}
+    - - {x: -440, y: -169}
+      - {x: -441, y: -171}
+      - {x: -441, y: -172}
+    - - {x: -469, y: -84}
+      - {x: -469, y: -32}
+      - {x: -495, y: -32}
+      - {x: -496, y: -35}
+      - {x: -496, y: -77}
+      - {x: -492, y: -82}
+      - {x: -490, y: -84}
+      - {x: -484, y: -84}
+      - {x: -482, y: -82}
+      - {x: -482, y: -78}
+      - {x: -482, y: -84}
+    - - {x: -457, y: -32}
+      - {x: -465, y: -37}
+      - {x: -467, y: -44}
+      - {x: -467, y: -77}
+      - {x: -464, y: -84}
+      - {x: -436, y: -84}
+      - {x: -436, y: -39}
+      - {x: -445, y: -32}
+    - - {x: -393, y: -34}
+      - {x: -433, y: -34}
+      - {x: -433, y: -84}
+      - {x: -372, y: -84}
+      - {x: -362, y: -82}
+      - {x: -362, y: -58}
+      - {x: -375, y: -38}
+    - - {x: -345, y: -34}
+      - {x: -357, y: -46}
+      - {x: -357, y: -84}
+      - {x: -269, y: -84}
+      - {x: -269, y: -56}
+      - {x: -304, y: -34}
+    - - {x: -121, y: -45}
+      - {x: -221, y: -33}
+      - {x: -253, y: -33}
+      - {x: -265, y: -55}
+      - {x: -265, y: -84}
+      - {x: -209, y: -84}
+      - {x: -119, y: -66}
+      - {x: -119, y: -48}
+    - - {x: -116, y: -32}
+      - {x: -118, y: -35}
+      - {x: -118, y: -66}
+      - {x: -114, y: -84}
+      - {x: -81, y: -84}
+      - {x: -42, y: -45}
+      - {x: -42, y: -32}
+    - - {x: 2, y: -49}
+      - {x: 2, y: -39}
+      - {x: 0, y: -33}
+      - {x: -2, y: -32}
+      - {x: -40, y: -32}
+      - {x: -40, y: -84}
+      - {x: -8, y: -84}
+      - {x: -5, y: -77}
+      - {x: -9, y: -68}
+    - - {x: 36, y: -68}
+      - {x: 39, y: -57}
+      - {x: 39, y: -35}
+      - {x: 30, y: -32}
+      - {x: 20, y: -32}
+      - {x: 4, y: -41}
+      - {x: 4, y: -66}
+      - {x: 9, y: -84}
+      - {x: 37, y: -84}
+      - {x: 39, y: -79}
+      - {x: 39, y: -75}
+    - - {x: 61, y: -84}
+      - {x: 75, y: -83}
+      - {x: 75, y: -38}
+      - {x: 71, y: -32}
+      - {x: 50, y: -32}
+      - {x: 48, y: -33}
+      - {x: 48, y: -84}
+      - {x: 60, y: -84}
+      - {x: 60, y: -78}
+      - {x: 60, y: -81}
+    - - {x: -500, y: 49}
+      - {x: -500, y: 25}
+      - {x: -493, y: 4}
+      - {x: -489, y: 0}
+      - {x: -473, y: 0}
+      - {x: -470, y: 5}
+      - {x: -470, y: 49}
+    - - {x: -385, y: 33}
+      - {x: -393, y: 33}
+      - {x: -405, y: 26}
+      - {x: -408, y: 20}
+      - {x: -408, y: 2}
+      - {x: -407, y: 0}
+      - {x: -381, y: 0}
+      - {x: -375, y: 6}
+      - {x: -372, y: 14}
+      - {x: -372, y: 23}
+    - - {x: -439, y: 46}
+      - {x: -440, y: 44}
+      - {x: -461, y: 21}
+      - {x: -462, y: 19}
+      - {x: -462, y: 2}
+      - {x: -461, y: 1}
+      - {x: -424, y: 1}
+      - {x: -415, y: 6}
+      - {x: -415, y: 36}
+      - {x: -418, y: 46}
+    - - {x: -356, y: 33}
+      - {x: -366, y: 28}
+      - {x: -366, y: 2}
+      - {x: -346, y: 2}
+      - {x: -332, y: 16}
+      - {x: -332, y: 25}
+      - {x: -342, y: 33}
+    - - {x: -319, y: 46}
+      - {x: -327, y: 34}
+      - {x: -327, y: 6}
+      - {x: -324, y: 3}
+      - {x: -307, y: 3}
+      - {x: -299, y: 7}
+      - {x: -299, y: 46}
+    - - {x: -489, y: 122}
+      - {x: -492, y: 119}
+      - {x: -495, y: 111}
+      - {x: -500, y: 106}
+      - {x: -500, y: 74}
+      - {x: -494, y: 72}
+      - {x: -470, y: 72}
+      - {x: -470, y: 122}
+    - - {x: -464, y: 120}
+      - {x: -465, y: 117}
+      - {x: -465, y: 72}
+      - {x: -433, y: 72}
+      - {x: -433, y: 113}
+      - {x: -439, y: 120}
+    - - {x: -383, y: 119}
+      - {x: -391, y: 127}
+      - {x: -416, y: 127}
+      - {x: -428, y: 111}
+      - {x: -428, y: 72}
+      - {x: -408, y: 72}
+      - {x: -398, y: 81}
+      - {x: -384, y: 99}
+      - {x: -383, y: 101}
+    - - {x: -332, y: 106}
+      - {x: -332, y: 113}
+      - {x: -340, y: 126}
+      - {x: -344, y: 127}
+      - {x: -362, y: 127}
+      - {x: -378, y: 107}
+      - {x: -379, y: 105}
+      - {x: -379, y: 72}
+      - {x: -359, y: 72}
+      - {x: -344, y: 81}
+      - {x: -344, y: 95}
+      - {x: -348, y: 97}
+    - - {x: -325, y: 124}
+      - {x: -331, y: 95}
+      - {x: -331, y: 72}
+      - {x: -297, y: 72}
+      - {x: -297, y: 124}
+    - - {x: -265, y: 122}
+      - {x: -278, y: 122}
+      - {x: -291, y: 102}
+      - {x: -291, y: 72}
+      - {x: -281, y: 72}
+      - {x: -277, y: 77}
+      - {x: -258, y: 78}
+      - {x: -258, y: 116}
+    - - {x: -236, y: 123}
+      - {x: -239, y: 121}
+      - {x: -245, y: 109}
+      - {x: -245, y: 83}
+      - {x: -241, y: 72}
+      - {x: -217, y: 72}
+      - {x: -207, y: 76}
+      - {x: -207, y: 113}
+      - {x: -215, y: 123}
+    - - {x: -404, y: 101}
+      - {x: -404, y: 104}
+      - {x: -402, y: 106}
+      - {x: -399, y: 106}
+      - {x: -401, y: 103}
+      - {x: -404, y: 102}
+      - {x: -406, y: 99}
+      - {x: -406, y: 98}
+    - - {x: -492, y: 195}
+      - {x: -498, y: 192}
+      - {x: -498, y: 157}
+      - {x: -497, y: 145}
+      - {x: -495, y: 143}
+      - {x: -474, y: 143}
+      - {x: -474, y: 193}
+      - {x: -476, y: 195}
+    - - {x: -449, y: 144}
+      - {x: -444, y: 143}
+      - {x: -442, y: 143}
+      - {x: -441, y: 145}
+      - {x: -441, y: 188}
+      - {x: -446, y: 195}
+      - {x: -462, y: 195}
+      - {x: -466, y: 193}
+      - {x: -466, y: 143}
+      - {x: -456, y: 143}
+      - {x: -453, y: 146}
+      - {x: -453, y: 149}
+      - {x: -452, y: 147}
+    - - {x: -414, y: 143}
+      - {x: -406, y: 145}
+      - {x: -408, y: 149}
+      - {x: -396, y: 161}
+      - {x: -396, y: 164}
+      - {x: -400, y: 170}
+      - {x: -409, y: 191}
+      - {x: -418, y: 195}
+      - {x: -429, y: 195}
+      - {x: -433, y: 190}
+      - {x: -433, y: 144}
+      - {x: -431, y: 143}
+      - {x: -423, y: 143}
+      - {x: -420, y: 146}
+      - {x: -420, y: 149}
+      - {x: -417, y: 143}
+    - - {x: -390, y: 195}
+      - {x: -390, y: 143}
+      - {x: -365, y: 143}
+      - {x: -364, y: 148}
+      - {x: -364, y: 192}
+      - {x: -367, y: 195}
+    - - {x: -481, y: 267}
+      - {x: -497, y: 267}
+      - {x: -499, y: 259}
+      - {x: -499, y: 216}
+      - {x: -498, y: 215}
+      - {x: -481, y: 215}
+      - {x: -472, y: 234}
+      - {x: -472, y: 249}
+      - {x: -476, y: 263}
+    - - {x: -466, y: 267}
+      - {x: -472, y: 262}
+      - {x: -472, y: 215}
+      - {x: -446, y: 215}
+      - {x: -446, y: 267}
+    - - {x: -290, y: 263}
+      - {x: -292, y: 262}
+      - {x: -304, y: 245}
+      - {x: -304, y: 235}
+      - {x: -296, y: 215}
+      - {x: -265, y: 215}
+      - {x: -265, y: 247}
+      - {x: -278, y: 263}
+    - - {x: -243, y: 265}
+      - {x: -252, y: 258}
+      - {x: -252, y: 216}
+      - {x: -248, y: 215}
+      - {x: -216, y: 215}
+      - {x: -216, y: 264}
+      - {x: -217, y: 265}
+    - - {x: -153, y: 265}
+      - {x: -161, y: 250}
+      - {x: -161, y: 216}
+      - {x: -156, y: 215}
+      - {x: -120, y: 215}
+      - {x: -120, y: 254}
+      - {x: -132, y: 265}
+    - - {x: -443, y: 267}
+      - {x: -445, y: 262}
+      - {x: -445, y: 216}
+      - {x: -424, y: 216}
+      - {x: -418, y: 219}
+      - {x: -418, y: 246}
+      - {x: -420, y: 267}
+    - - {x: -407, y: 267}
+      - {x: -417, y: 262}
+      - {x: -417, y: 221}
+      - {x: -416, y: 216}
+      - {x: -392, y: 216}
+      - {x: -392, y: 263}
+      - {x: -402, y: 267}
+    - - {x: -389, y: 268}
+      - {x: -391, y: 265}
+      - {x: -391, y: 220}
+      - {x: -390, y: 217}
+      - {x: -386, y: 216}
+      - {x: -374, y: 216}
+      - {x: -362, y: 222}
+      - {x: -362, y: 254}
+      - {x: -368, y: 268}
+    - - {x: -354, y: 267}
+      - {x: -363, y: 260}
+      - {x: -363, y: 238}
+      - {x: -361, y: 219}
+      - {x: -358, y: 216}
+      - {x: -337, y: 216}
+      - {x: -337, y: 267}
+    - - {x: -202, y: 264}
+      - {x: -208, y: 254}
+      - {x: -208, y: 228}
+      - {x: -203, y: 216}
+      - {x: -173, y: 216}
+      - {x: -173, y: 248}
+      - {x: -185, y: 264}
+    - - {x: -104, y: 234}
+      - {x: -108, y: 230}
+      - {x: -108, y: 226}
+      - {x: -104, y: 222}
+      - {x: -100, y: 222}
+      - {x: -96, y: 226}
+      - {x: -96, y: 230}
+      - {x: -100, y: 234}
+    - - {x: -104, y: 247}
+      - {x: -108, y: 243}
+      - {x: -108, y: 239}
+      - {x: -104, y: 235}
+      - {x: -100, y: 235}
+      - {x: -96, y: 239}
+      - {x: -96, y: 243}
+      - {x: -100, y: 247}
+    - - {x: -402, y: 345}
+      - {x: -410, y: 345}
+      - {x: -416, y: 342}
+      - {x: -419, y: 329}
+      - {x: -419, y: 306}
+      - {x: -416, y: 293}
+      - {x: -395, y: 293}
+      - {x: -390, y: 303}
+      - {x: -390, y: 328}
+      - {x: -392, y: 340}
+    - - {x: -491, y: 346}
+      - {x: -499, y: 332}
+      - {x: -499, y: 301}
+      - {x: -494, y: 294}
+      - {x: -472, y: 294}
+      - {x: -463, y: 295}
+      - {x: -463, y: 346}
+    - - {x: -442, y: 347}
+      - {x: -463, y: 347}
+      - {x: -463, y: 294}
+      - {x: -430, y: 294}
+      - {x: -427, y: 304}
+      - {x: -427, y: 334}
+      - {x: -434, y: 344}
+    - - {x: -370, y: 414}
+      - {x: -380, y: 392}
+      - {x: -380, y: 365}
+      - {x: -378, y: 362}
+      - {x: -358, y: 362}
+      - {x: -344, y: 394}
+      - {x: -344, y: 408}
+      - {x: -349, y: 414}
+    - - {x: -411, y: 417}
+      - {x: -422, y: 396}
+      - {x: -430, y: 378}
+      - {x: -430, y: 374}
+      - {x: -423, y: 365}
+      - {x: -413, y: 365}
+      - {x: -405, y: 366}
+      - {x: -394, y: 391}
+      - {x: -394, y: 415}
+      - {x: -398, y: 417}
+    - - {x: -240, y: 417}
+      - {x: -246, y: 414}
+      - {x: -246, y: 383}
+      - {x: -242, y: 366}
+      - {x: -228, y: 366}
+      - {x: -220, y: 367}
+      - {x: -220, y: 412}
+      - {x: -226, y: 417}
+    - - {x: -448, y: 393}
+      - {x: -456, y: 403}
+      - {x: -468, y: 403}
+      - {x: -500, y: 386}
+      - {x: -500, y: 373}
+      - {x: -491, y: 367}
+      - {x: -488, y: 367}
+      - {x: -480, y: 372}
+      - {x: -461, y: 378}
+      - {x: -450, y: 386}
+      - {x: -448, y: 390}
+    - - {x: -299, y: 405}
+      - {x: -327, y: 386}
+      - {x: -327, y: 376}
+      - {x: -322, y: 369}
+      - {x: -308, y: 369}
+      - {x: -275, y: 383}
+      - {x: -275, y: 400}
+      - {x: -284, y: 405}
+    - - {x: -485, y: 486}
+      - {x: -498, y: 473}
+      - {x: -498, y: 466}
+      - {x: -494, y: 442}
+      - {x: -490, y: 439}
+      - {x: -472, y: 439}
+      - {x: -467, y: 441}
+      - {x: -467, y: 486}
+    - - {x: -183, y: 491}
+      - {x: -193, y: 467}
+      - {x: -193, y: 445}
+      - {x: -189, y: 440}
+      - {x: -188, y: 439}
+      - {x: -174, y: 439}
+      - {x: -157, y: 472}
+      - {x: -157, y: 486}
+      - {x: -162, y: 491}
+    - - {x: -454, y: 491}
+      - {x: -454, y: 451}
+      - {x: -451, y: 440}
+      - {x: -436, y: 440}
+      - {x: -428, y: 442}
+      - {x: -428, y: 485}
+      - {x: -436, y: 491}
+    - - {x: -418, y: 490}
+      - {x: -418, y: 465}
+      - {x: -412, y: 441}
+      - {x: -379, y: 441}
+      - {x: -379, y: 457}
+      - {x: -394, y: 490}
+    - - {x: -141, y: 486}
+      - {x: -143, y: 477}
+      - {x: -143, y: 459}
+      - {x: -130, y: 444}
+      - {x: -127, y: 442}
+      - {x: -110, y: 442}
+      - {x: -108, y: 447}
+      - {x: -108, y: 474}
+      - {x: -119, y: 486}
+    - - {x: 170, y: 488}
+      - {x: 157, y: 488}
+      - {x: 152, y: 487}
+      - {x: 144, y: 477}
+      - {x: 144, y: 453}
+      - {x: 148, y: 442}
+      - {x: 166, y: 442}
+      - {x: 169, y: 443}
+      - {x: 170, y: 454}
+      - {x: 173, y: 466}
+      - {x: 173, y: 487}
+    - - {x: 196, y: 493}
+      - {x: 187, y: 482}
+      - {x: 187, y: 450}
+      - {x: 189, y: 443}
+      - {x: 213, y: 443}
+      - {x: 215, y: 456}
+      - {x: 215, y: 485}
+      - {x: 209, y: 493}
+    - - {x: 54, y: 480}
+      - {x: 44, y: 462}
+      - {x: 44, y: 444}
+      - {x: 76, y: 444}
+      - {x: 78, y: 450}
+      - {x: 79, y: 454}
+      - {x: 79, y: 480}
+    - - {x: -271, y: 480}
+      - {x: -274, y: 477}
+      - {x: -274, y: 475}
+      - {x: -297, y: 468}
+      - {x: -302, y: 462}
+      - {x: -302, y: 445}
+      - {x: -273, y: 445}
+      - {x: -258, y: 451}
+      - {x: -258, y: 474}
+      - {x: -266, y: 480}
+    - - {x: -232, y: 481}
+      - {x: -233, y: 480}
+      - {x: -244, y: 465}
+      - {x: -245, y: 461}
+      - {x: -245, y: 445}
+      - {x: -217, y: 445}
+      - {x: -210, y: 447}
+      - {x: -210, y: 481}
+    - - {x: -75, y: 481}
+      - {x: -76, y: 480}
+      - {x: -87, y: 465}
+      - {x: -88, y: 461}
+      - {x: -88, y: 445}
+      - {x: -60, y: 445}
+      - {x: -53, y: 447}
+      - {x: -53, y: 481}
+    - - {x: 91, y: 480}
+      - {x: 89, y: 479}
+      - {x: 89, y: 457}
+      - {x: 103, y: 446}
+      - {x: 125, y: 446}
+      - {x: 132, y: 452}
+      - {x: 132, y: 469}
+      - {x: 117, y: 480}
+    - - {x: -361, y: 484}
+      - {x: -367, y: 479}
+      - {x: -367, y: 467}
+      - {x: -366, y: 460}
+      - {x: -334, y: 448}
+      - {x: -320, y: 448}
+      - {x: -315, y: 455}
+      - {x: -315, y: 469}
+      - {x: -348, y: 484}
+    - - {x: -36, y: 468}
+      - {x: -37, y: 465}
+      - {x: -37, y: 454}
+      - {x: -32, y: 448}
+      - {x: 18, y: 448}
+      - {x: 19, y: 450}
+      - {x: 19, y: 464}
+      - {x: -7, y: 468}
+    - - {x: -116, y: 507}
+      - {x: -106, y: 507}
+      - {x: -105, y: 512}
+      - {x: -105, y: 550}
+      - {x: -113, y: 559}
+      - {x: -133, y: 559}
+      - {x: -137, y: 551}
+      - {x: -137, y: 509}
+      - {x: -136, y: 507}
+      - {x: -124, y: 507}
+      - {x: -122, y: 508}
+      - {x: -122, y: 515}
+      - {x: -121, y: 514}
+    - - {x: -486, y: 557}
+      - {x: -490, y: 555}
+      - {x: -498, y: 539}
+      - {x: -498, y: 518}
+      - {x: -494, y: 511}
+      - {x: -483, y: 511}
+      - {x: -470, y: 517}
+      - {x: -464, y: 530}
+      - {x: -464, y: 546}
+      - {x: -470, y: 557}
+    - - {x: -451, y: 556}
+      - {x: -459, y: 546}
+      - {x: -459, y: 511}
+      - {x: -425, y: 511}
+      - {x: -425, y: 554}
+      - {x: -433, y: 556}
+    - - {x: -417, y: 555}
+      - {x: -418, y: 551}
+      - {x: -418, y: 520}
+      - {x: -411, y: 511}
+      - {x: -401, y: 511}
+      - {x: -386, y: 517}
+      - {x: -386, y: 550}
+      - {x: -389, y: 555}
+    - - {x: -369, y: 557}
+      - {x: -379, y: 551}
+      - {x: -381, y: 542}
+      - {x: -381, y: 522}
+      - {x: -375, y: 511}
+      - {x: -355, y: 511}
+      - {x: -349, y: 513}
+      - {x: -349, y: 556}
+      - {x: -353, y: 557}
+    - - {x: -93, y: 560}
+      - {x: -101, y: 548}
+      - {x: -101, y: 512}
+      - {x: -59, y: 512}
+      - {x: -59, y: 560}
+    - - {x: 83, y: 560}
+      - {x: 77, y: 541}
+      - {x: 77, y: 517}
+      - {x: 80, y: 512}
+      - {x: 87, y: 512}
+      - {x: 104, y: 517}
+      - {x: 104, y: 559}
+      - {x: 102, y: 560}
+    - - {x: -315, y: 551}
+      - {x: -321, y: 548}
+      - {x: -321, y: 523}
+      - {x: -316, y: 515}
+      - {x: -307, y: 513}
+      - {x: -298, y: 513}
+      - {x: -295, y: 514}
+      - {x: -295, y: 541}
+      - {x: -301, y: 551}
+    - - {x: 50, y: 533}
+      - {x: 53, y: 533}
+      - {x: 57, y: 538}
+      - {x: 60, y: 550}
+      - {x: 51, y: 558}
+      - {x: 37, y: 558}
+      - {x: 28, y: 535}
+      - {x: 28, y: 515}
+      - {x: 30, y: 513}
+      - {x: 60, y: 513}
+      - {x: 60, y: 522}
+      - {x: 53, y: 531}
+    - - {x: -228, y: 547}
+      - {x: -245, y: 545}
+      - {x: -250, y: 540}
+      - {x: -250, y: 537}
+      - {x: -265, y: 525}
+      - {x: -265, y: 519}
+      - {x: -263, y: 514}
+      - {x: -220, y: 514}
+      - {x: -213, y: 518}
+      - {x: -213, y: 542}
+      - {x: -224, y: 547}
+    - - {x: -165, y: 545}
+      - {x: -191, y: 545}
+      - {x: -214, y: 522}
+      - {x: -214, y: 518}
+      - {x: -212, y: 514}
+      - {x: -177, y: 514}
+      - {x: -163, y: 515}
+      - {x: -160, y: 523}
+      - {x: -160, y: 541}
+    - - {x: -185, y: 627}
+      - {x: -192, y: 624}
+      - {x: -192, y: 577}
+      - {x: -191, y: 576}
+      - {x: -166, y: 576}
+      - {x: -164, y: 587}
+      - {x: -164, y: 627}
+    - - {x: -141, y: 626}
+      - {x: -155, y: 626}
+      - {x: -161, y: 622}
+      - {x: -164, y: 613}
+      - {x: -164, y: 576}
+      - {x: -132, y: 576}
+      - {x: -132, y: 592}
+      - {x: -136, y: 625}
+    - - {x: -114, y: 626}
+      - {x: -123, y: 621}
+      - {x: -126, y: 609}
+      - {x: -126, y: 576}
+      - {x: -97, y: 576}
+      - {x: -97, y: 619}
+      - {x: -101, y: 626}
+    - - {x: -83, y: 626}
+      - {x: -89, y: 619}
+      - {x: -89, y: 584}
+      - {x: -88, y: 579}
+      - {x: -80, y: 576}
+      - {x: -64, y: 576}
+      - {x: -64, y: 626}
+    - - {x: -33, y: 599}
+      - {x: -33, y: 622}
+      - {x: -37, y: 628}
+      - {x: -51, y: 628}
+      - {x: -59, y: 624}
+      - {x: -60, y: 615}
+      - {x: -60, y: 578}
+      - {x: -55, y: 576}
+      - {x: -45, y: 576}
+      - {x: -41, y: 578}
+      - {x: -38, y: 581}
+      - {x: -35, y: 588}
+    - - {x: -20, y: 627}
+      - {x: -24, y: 623}
+      - {x: -27, y: 588}
+      - {x: -27, y: 579}
+      - {x: -26, y: 576}
+      - {x: 5, y: 576}
+      - {x: 7, y: 577}
+      - {x: 7, y: 608}
+      - {x: 3, y: 627}
+    - - {x: 20, y: 625}
+      - {x: 10, y: 610}
+      - {x: 10, y: 576}
+      - {x: 41, y: 576}
+      - {x: 41, y: 616}
+      - {x: 34, y: 625}
+    - - {x: 44, y: 579}
+      - {x: 46, y: 576}
+      - {x: 70, y: 576}
+      - {x: 70, y: 625}
+      - {x: 46, y: 625}
+      - {x: 44, y: 622}
+    - - {x: -293, y: 622}
+      - {x: -301, y: 602}
+      - {x: -301, y: 586}
+      - {x: -295, y: 578}
+      - {x: -273, y: 578}
+      - {x: -268, y: 589}
+      - {x: -268, y: 619}
+      - {x: -272, y: 622}
+    - - {x: -234, y: 586}
+      - {x: -229, y: 585}
+      - {x: -226, y: 587}
+      - {x: -226, y: 592}
+      - {x: -229, y: 612}
+      - {x: -232, y: 616}
+      - {x: -248, y: 616}
+      - {x: -265, y: 603}
+      - {x: -265, y: 590}
+      - {x: -263, y: 587}
+      - {x: -255, y: 588}
+      - {x: -254, y: 591}
+      - {x: -254, y: 594}
+      - {x: -254, y: 587}
+      - {x: -256, y: 584}
+      - {x: -255, y: 578}
+      - {x: -240, y: 578}
+      - {x: -235, y: 582}
+      - {x: -235, y: 586}
+      - {x: -240, y: 591}
+    - - {x: -332, y: 628}
+      - {x: -335, y: 633}
+      - {x: -351, y: 633}
+      - {x: -356, y: 631}
+      - {x: -356, y: 583}
+      - {x: -355, y: 580}
+      - {x: -329, y: 580}
+      - {x: -328, y: 586}
+      - {x: -326, y: 593}
+      - {x: -326, y: 619}
+    - - {x: -498, y: 634}
+      - {x: -498, y: 583}
+      - {x: -497, y: 581}
+      - {x: -474, y: 581}
+      - {x: -474, y: 634}
+    - - {x: -470, y: 634}
+      - {x: -471, y: 631}
+      - {x: -471, y: 581}
+      - {x: -447, y: 581}
+      - {x: -447, y: 631}
+      - {x: -451, y: 634}
+    - - {x: -440, y: 633}
+      - {x: -442, y: 628}
+      - {x: -442, y: 581}
+      - {x: -418, y: 581}
+      - {x: -418, y: 633}
+    - - {x: -387, y: 617}
+      - {x: -387, y: 628}
+      - {x: -395, y: 632}
+      - {x: -407, y: 632}
+      - {x: -411, y: 629}
+      - {x: -411, y: 581}
+      - {x: -389, y: 581}
+      - {x: -387, y: 586}
+      - {x: -387, y: 592}
+      - {x: -389, y: 603}
+    - - {x: -278, y: 597}
+      - {x: -279, y: 597}
+      - {x: -279, y: 595}
+    - - {x: 475, y: 630}
+      - {x: 476, y: 627}
+      - {x: 482, y: 627}
+      - {x: 484, y: 629}
+      - {x: 483, y: 632}
+      - {x: 477, y: 632}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
